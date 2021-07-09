@@ -30,5 +30,6 @@ def change_mac( interface, new_mac):
 options = get_arguments( )
 
 change_mac(options.interface, options.new_mac)
+one
 
 
